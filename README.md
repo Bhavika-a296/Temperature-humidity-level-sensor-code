@@ -1,1 +1,1 @@
-# Temperature-humidity-level-sensor-coed
+# Temperature-humidity-level-sensor-code
